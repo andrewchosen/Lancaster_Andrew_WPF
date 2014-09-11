@@ -1,7 +1,6 @@
-//Assignment: Expressions
-//Industry-specific
-//by Andrew Lancaster
-//created on 9/11/2014
+/** Assignment: Expressions
+ *  Industry-specific
+ *  Created by Andrew Lancaster on 9/11/2014 **/
 
 //Finding optimal column width depending on screen width and padding.
 
@@ -17,6 +16,6 @@ var columnWidth = (screenWidth - totalPadding - columnExcess) / columns; //Subtr
 if(columnExcess == 0){ //if columnExcess value is 0, it will prompt message below
 	console.log("Based on the screen width of " + screenWidth + " pixels and padding of " + padding + " pixels on each side, the optimal width for " + columns + " columns would be " + columnWidth + " pixels.")
 }
-else{ //if columnExcess value is NOT 0, it will prompt different message
+else{ //if columnExcess value is NOT 0, it will prompt message below
 	console.log("Based on the screen width of " + screenWidth + " pixels and padding of " + padding + " pixels on each side, the optimal width for " + columns + " columns would be " + columnWidth + " pixels; however, there would be an excess of " + columnExcess + " pixels.")
 }
