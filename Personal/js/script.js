@@ -1,7 +1,6 @@
-//Assignment: Expressions
-//Personal
-//by Andrew Lancaster
-//created on 9/11/2014
+/** Assignment: Expressions
+ *  Personal
+ *  Created by Andrew Lancaster on 9/11/2014 **/
 
 //Average hours studied per day for the past week
 
