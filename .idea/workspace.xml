@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Industry-specific/index.html" afterPath="$PROJECT_DIR$/Industry-specific/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wacky/index.html" afterPath="$PROJECT_DIR$/Wacky/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Industry-specific/js/script.js" afterPath="$PROJECT_DIR$/Industry-specific/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Personal/js/script.js" afterPath="$PROJECT_DIR$/Personal/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wacky/js/script.js" afterPath="$PROJECT_DIR$/Wacky/js/script.js" />
     </list>
     <ignored path="Lancaster_Andrew_WPF.iws" />
@@ -58,24 +59,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Personal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="739">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.02" vertical-offset="0" max-vertical-offset="750">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,11 +128,11 @@
         <option value="$PROJECT_DIR$/Expressions_worksheet/index.html" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/js/script.js" />
         <option value="$PROJECT_DIR$/Personal/index.html" />
-        <option value="$PROJECT_DIR$/Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/Wacky/index.html" />
         <option value="$PROJECT_DIR$/Industry-specific/js/script.js" />
         <option value="$PROJECT_DIR$/Industry-specific/index.html" />
+        <option value="$PROJECT_DIR$/Personal/js/script.js" />
       </list>
     </option>
   </component>
@@ -530,6 +529,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
@@ -540,18 +547,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.02" vertical-offset="0" max-vertical-offset="750">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
           <folding />
         </state>
       </provider>
