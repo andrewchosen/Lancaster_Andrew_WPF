@@ -1,9 +1,8 @@
-//Assignment: Expressions
-//Wacky
-//by Andrew Lancaster
-//created on 9/11/2014
+/** Assignment: Expressions
+ *  Wacky
+ *  Created by Andrew Lancaster on 9/11/2014 **/
 
-//Finding optimal column width depending on screen width and padding.
+//Karate chopping a brick into equal pieces
 
 var height = prompt("Karate chop your brick here. \n\nHeight of brick in inches.")
 var length = prompt("Length of brick in inches.");
