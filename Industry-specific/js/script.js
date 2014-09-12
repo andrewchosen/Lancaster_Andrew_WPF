@@ -13,7 +13,7 @@ var columnExcess = (screenWidth - totalPadding) % columns; //Subtracting the tot
 var columnWidth = (screenWidth - totalPadding - columnExcess) / columns; //Subtracted total padding and excess pixels from screen size then divided by columns to find optimal column width
 
 //Using boolean to check if there is or is not column excess. 
-if(columnExcess == 0){ //if columnExcess value is 0, it will prompt message below
+if(columnExcess === 0){ //if columnExcess value is 0, it will prompt message below
 	console.log("Based on the screen width of " + screenWidth + " pixels and padding of " + padding + " pixels on each side, the optimal width for " + columns + " columns would be " + columnWidth + " pixels.")
 }
 else{ //if columnExcess value is NOT 0, it will prompt message below
