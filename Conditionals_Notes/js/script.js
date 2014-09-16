@@ -1,4 +1,5 @@
-//Conditional Logic
+/* Conditional Logic Notes
+ * Created by Andrew Lancaster on 9/12/2014 */
 
 var oldEnough = false;
 
