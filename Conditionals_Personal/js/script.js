@@ -10,27 +10,27 @@ if(monthsTilWedding === ""){
 
 var moneyNeeded = prompt("How much money do you need to save by then?")
 if(moneyNeeded === ""){
-	moneyNeeded = prompt("Oops, you forgot to answer the question. Please try again. \n\nHow many months until your wedding?")
+	moneyNeeded = prompt("Oops, you forgot to answer the question. Please try again. \n\nHow much money do you need to save by then?")
 }
 
 var fianceIncome = prompt("What is the groom's monthly gross income?")
 if(fianceIncome === ""){
-	fianceIncome = prompt("Oops, you forgot to answer the question. Please try again. \n\nHow many months until your wedding?")
+	fianceIncome = prompt("Oops, you forgot to answer the question. Please try again. \n\nWhat is the groom's monthly gross income?")
 }
 
 var fianceExpenses = prompt("What are his total monthly expenses?")
 if(fianceExpenses === ""){
-	fianceExpenses = prompt("Oops, you forgot to answer the question. Please try again. \n\nHow many months until your wedding?")
+	fianceExpenses = prompt("Oops, you forgot to answer the question. Please try again. \n\nWhat are his total monthly expenses?")
 }
 
 var fianceeIncome = prompt("What is the bride's monthly gross income?")
 if(fianceeIncome === ""){
-	fianceeIncome = prompt("Oops, you forgot to answer the question. Please try again. \n\nHow many months until your wedding?")
+	fianceeIncome = prompt("Oops, you forgot to answer the question. Please try again. \n\nWhat is the bride's monthly gross income?")
 }
 
 var fianceeExpenses = prompt("What are her total monthly expenses?")
 if(fianceeExpenses === ""){
-	fianceeExpenses = prompt("Oops, you forgot to answer the question. Please try again. \n\nHow many months until your wedding?")
+	fianceeExpenses = prompt("Oops, you forgot to answer the question. Please try again. \n\nWhat are her total monthly expenses?")
 }
 
 var combinedIncome = (fianceIncome - fianceExpenses) + (fianceeIncome - fianceeExpenses)
