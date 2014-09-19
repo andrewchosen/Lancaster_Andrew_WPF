@@ -13,4 +13,4 @@ var websitesMoney = websitesPerYear * averageWebsiteCost;
 
 var result = websitesMoney - leastAmount;
 
-console.log(result);
+(result >= 0) ? console.log("You will still meet your goal of $" + leastAmount + " this year if you take off " + timeOff + " weeks with $" + result + " to spare.") : console.log("If you take off " + timeOff + " weeks, you will be -$" + -result + " short of your annual goal.");
