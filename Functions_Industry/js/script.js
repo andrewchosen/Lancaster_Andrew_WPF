@@ -8,9 +8,11 @@ var siteThreeCost = prompt('And the one before that(#3)?');
 var siteFourCost = prompt('And the one before that(#4)?');
 var goal = prompt('What is the least amount you want to make after 50 sites (including the previous four)?');
 
-function calcAverage(one, two, three, four, goal){
-    var calcAverage = (one + two + three + four) / 4;
-    (calcAverage * 50 >= goal) ? console.log('You exceeded your goal!') : console.log('You did not exceed your goal');
+function calcAverage(one, two, three, four){
+    var average = (one + two + three + four) / 4;
+    var total = average * 50;
+    (total >= goal) ? console.log('You exceeded your goal!') : console.log('You did not exceed your goal');
+    console.log(average);
 }
 
-calcAverage(siteOneCost, siteTwoCost, siteThreeCost, siteFourCost, goal);
+calcAverage(siteOneCost, siteTwoCost, siteThreeCost, siteFourCost);
