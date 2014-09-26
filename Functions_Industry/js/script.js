@@ -12,7 +12,4 @@ function calcAverage(one, two, three, four){
     var average = (one + two + three + four) / 4;
     var total = average * 50;
     (total >= goal) ? console.log('You exceeded your goal!') : console.log('You did not exceed your goal');
-    console.log(average);
 }
-
-calcAverage(siteOneCost, siteTwoCost, siteThreeCost, siteFourCost);
